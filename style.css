@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+    color: #ffc107;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.container
+{
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
